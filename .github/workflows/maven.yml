@@ -33,5 +33,5 @@ jobs:
         tags: v1,latest
         registry: docker.io
         dockerfile: Dockerfile.ci
-        username: "Maplestar996"
-        password: "Zy7758521521!"
+        username: Maplestar996
+        password: Zy7758521521!
