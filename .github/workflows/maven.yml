@@ -30,7 +30,7 @@ jobs:
       name: Build & push Docker image
       with:
         image: zeyuwork/git_action
-        tags: v1,latest
+        tags: v0,latest
         registry: docker.io
         dockerfile: Dockerfile.ci
         username: ${{ secrets.DOCKER_USERNAME }}
